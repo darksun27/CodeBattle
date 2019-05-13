@@ -6,4 +6,4 @@ A place where 2 friends come and compete with each other in coding.
 ---
 
 ### Question Designers
--[@Bin4ryGh0st](https://github.com/Bin4ryGh0st)
+- [@Bin4ryGh0st](https://github.com/Bin4ryGh0st)
